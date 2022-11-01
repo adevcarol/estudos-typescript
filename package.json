@@ -1,0 +1,23 @@
+{
+  "name": "estudos-typescript",
+  "version": "1.0.0",
+  "description": "Instalação via npm:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adevcarol/estudos-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adevcarol/estudos-typescript/issues"
+  },
+  "homepage": "https://github.com/adevcarol/estudos-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
